@@ -5,7 +5,7 @@ Projecto sobre la deteccion de autos usando un modelo de Inteligencia Artificial
 
 - Numpy
 - Opencv
-- sort
+- Sort
 - cv2
 - cvzone
 
